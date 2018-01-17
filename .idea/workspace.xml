@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24741e21-47c5-4767-8309-74851b195be6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" />
-    </list>
+    <list default="true" id="24741e21-47c5-4767-8309-74851b195be6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -253,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516039748283</updated>
       <workItem from="1516039750153" duration="3639000" />
-      <workItem from="1516171787045" duration="53000" />
+      <workItem from="1516171787045" duration="223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3692000" />
+    <option name="totallyTimeSpent" value="3862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1865" height="1177" extended-state="6" />
